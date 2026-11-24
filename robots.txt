@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /status_update.php
+Disallow: /status_data.json
+
+Sitemap: https://heimrollespill.no/sitemap.xml
